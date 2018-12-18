@@ -13,6 +13,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 logo: /assets/img/logo.png
 
+excerpt_separator: <!--more-->
+sass:
+  style: compressed
+  sass_dir: assets/sass
 # Build settings
 markdown: kramdown
 plugins:
