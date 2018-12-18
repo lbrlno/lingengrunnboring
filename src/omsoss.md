@@ -7,6 +7,23 @@ featuredImage: /assets/img/featured.jpg
 
 ## Om oss
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam deserunt minus harum nostrum, corporis nam ad labore voluptate soluta dolores illo assumenda doloremque enim possimus tenetur veniam voluptates, repellendus sunt!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam harum nulla tempora vel eveniet dolore eum error nam dolor molestias fugiat doloribus cumque quae accusamus ipsam, totam libero placeat architecto.
+Hvem er Lingen Grunnboring Lingen Grunnboring AS ble stiftet i mai 2018 og har i dag 2 ansatte. John Ole Lingen har siden 2008 jobbet som grunnborer, tilrettelegger og avdelingsleder for Grunnundersøkelser i Geovest-Haugland AS og Norconsult AS. Kristoffer Lingen har siden 2011 jobbet deltid som grunnborer i Norconsult AS.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores quod cum, pariatur, excepturi ratione laboriosam animi dolorem velit nesciunt sapiente rerum iusto cumque, natus officia laborum omnis veniam ut, eveniet.
+Vi tilbyr tjenester innen geotekniske grunnundersøkelser og disponerer pr i dag én borerigg. Én ny Geotech 605 FM er i bestilling, med levering februar 2019.
+
+Arbeidsområdet vil være hele landet.
+
+### Vi kan tilby følgende feltundersøkelser
+- Totalsondering
+- Dreietrykksondering
+- Trykksondering (CPTU)
+- Piezometer for måling av vanntrykk (hydraulisk og elektrisk)
+- Nedsetting av miljøbrønner
+- Moreneprøvetaker for prøvetaking i faste masser
+- Representative prøver for enkle geotekniske analyser og miljøprøver
+- Stempelprøvetaking Ø54/75 mm og blokkprøvetaking for prøver av høy kvalitet
+- GPS-innmåling av borpunkt.
+
+Hvorfor velge oss Vi er et lite firma med høy kompetanse som har som mål å være ledende innen levering av kvalitet i levert vare.
+
+### Hvem er vi
