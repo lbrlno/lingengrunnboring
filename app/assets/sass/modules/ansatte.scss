@@ -1,0 +1,27 @@
+.ansatte {
+	&-list {
+		margin: 5rem 0;
+		list-style: none;
+		padding-left: 0;
+	}
+
+	&-item {
+		display: inline-block;
+		margin-right: 3rem;
+		text-align: center;
+
+		&:last-of-type {
+			margin-right: 0;
+		}
+
+		h4 {
+			color: $black;
+			line-height: 1.5;
+			margin: 0;
+		}
+		p {
+			line-height: 1.5;
+			margin: 0;
+		}
+	}
+}

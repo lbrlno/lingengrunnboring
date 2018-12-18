@@ -1,0 +1,10 @@
+- link: /
+  name: Hjem
+- link: /omoss/
+  name: Om oss
+- link: /referanser/
+  name: Referanser
+- link: /feltarbeid/
+  name: Feltarbeid
+- link: /kontakt/
+  name: Kontakt

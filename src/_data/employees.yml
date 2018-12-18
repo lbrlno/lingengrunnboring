@@ -1,0 +1,10 @@
+- name: John Ola Lingen
+  title: Daglig Leder
+  phone: 970 05 507
+  email: john@lingengrunnboring.no
+  photo: /assets/img/john.png
+- name: Kristoffer Lingen
+  title: Boreleder
+  phone: 958 83 670
+  email: kristoffer@lingengrunnboring.no
+  photo: /assets/img/kristoffer.png

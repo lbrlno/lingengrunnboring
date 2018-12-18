@@ -1,0 +1,30 @@
+{% assign images = page.imageCarousel %}
+
+{% if images %}
+	<div id="myCarousel" class="carousel slide" data-ride="carousel">
+ 		<ol class="carousel-indicators">
+			{% if images.size > 1 %}
+				{% for image in images %}
+				{% assign imageIndex = forloop.index %}
+					<li data-target="#myCarousel" data-slide-to="{{ imageIndex }}" class="{% if imageIndex==1 %}active{% endif %}"></li>
+				{% endfor %}
+			{% endif %}
+		</ol> 
+		<div class="carousel-inner" role="listbox">
+			{% for image in images %}
+				{% assign imageIndex = forloop.index %}
+				<div class="carousel-item {% if imageIndex==1 %}active{% endif %}">
+					<img src="{{ image.url }}" alt="{{ image.title }}">
+				</div>
+			{% endfor %}
+		</div>
+		{% if images.size > 1 %}
+			<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			</a>
+			<a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+				<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			</a>
+		{% endif %} 
+	</div>
+{% endif %}

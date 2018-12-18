@@ -1,0 +1,31 @@
+---
+layout: pages/default
+---
+
+
+{{ content }}
+
+<div class="referances">
+	{% for post in site.references %}
+		<div class="referances-item">
+			{% for image in post.imageCarousel %}
+				{% if forloop.index==1 %}
+					{% assign photo = image.url %}
+					{% assign text = image.title %}
+					{% if photo %}
+						<div id="myCarousel" class="carousel slide" data-ride="carousel">
+							<div class="carousel-inner" role="listbox">
+								<div class="carousel-item active">
+									<a href="{{ post.url }}"><img src="{{ photo }}" alt=""></a>
+								</div>
+							</div>
+						</div> 
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+			<h2 class="referances-title"><a href="{{ post.url }}" class="referances-link">{{ post.title }}</a></h2>
+
+			{{ post.content }}
+		</div>
+	{% endfor %}
+</div>

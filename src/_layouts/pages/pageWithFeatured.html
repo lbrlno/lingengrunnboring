@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% assign image = page.featuredImage %}
+{% if image %}
+	{% include featured-image.html %}
+{% endif %}
+
+<div class="content">
+	<div class="page island">
+		<h2>{{ page.title }}</h2>
+
+		{{ content }}
+	</div>
+</div>

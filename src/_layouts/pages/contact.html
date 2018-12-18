@@ -1,0 +1,30 @@
+---
+layout: pages/default
+---
+
+<div class="half left">
+
+	{{ content }}
+
+
+	<form method="post" action="" accept-charset="UTF-8">
+		<input type="hidden" name="action" value="contact-form/send">
+
+		<input id="from-name" type="text" name="fromName" value="" placeholder="FULLT NAVN">
+
+		<input id="from-email" type="email" name="fromEmail" value="" placeholder="E-POST">
+
+		<input id="subject" type="text" name="subject" value="" placeholder="EMNE">
+
+		<textarea rows="10" cols="40" id="message" name="message" placeholder="BESKJED"></textarea>
+
+		<input type="submit" value="Send">
+	</form>
+</div>
+<div class="half right">
+	<h2>Adresse og kart</h2>
+
+	{% include contact-info.html %}
+
+	<img src="/assets/img/kart.png" alt="">
+</div>

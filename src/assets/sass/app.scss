@@ -1,0 +1,20 @@
+$black: #1c1c1d;
+$white: #ffffff;
+$green: #68ba3c;
+
+$width: 1350px;
+
+
+@import "lib/normalize.scss";
+@import "modules/borderbox.scss";
+@import "modules/clearfix.scss";
+@import "modules/body.scss";
+@import "modules/island.scss";
+@import "modules/typography.scss";
+@import "modules/header.scss";
+@import "modules/footer.scss";
+@import "modules/helper.scss";
+@import "modules/carousel.scss";
+@import "modules/form.scss";
+@import "modules/ansatte.scss";
+@import "modules/referances.scss";

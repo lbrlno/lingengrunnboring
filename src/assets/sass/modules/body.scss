@@ -1,0 +1,19 @@
+body {
+	color: $black;
+	background: #fff;
+	line-height: 1.25;
+	font-size: 16px;
+	font-family: univia-pro, -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+}
+
+.content {
+	padding: 5rem 0;
+
+	img {
+		max-width: 100%;
+	}
+}

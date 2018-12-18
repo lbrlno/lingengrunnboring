@@ -1,0 +1,14 @@
+<ul class="ansatte-list">
+	{%- for employee in site.data.employees %}
+		<li class="ansatte-item">
+			<img src="{{ employee.photo }}" alt="{{ employee.name }} portrait photo" width="200px"" />
+
+			<span>
+				<h4 class="ansatt-title">{{ employee.name }}</h4>
+				<p>{{ employee.title }}</p>
+				<p>{{ employee.phone }}</p>
+				<p>{{ employee.email }}</p>
+			</span>
+		</li>
+	{% endfor %}
+</ul>
