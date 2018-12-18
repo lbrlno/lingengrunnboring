@@ -1,0 +1,7 @@
+<ul class="horizontal-list">
+{%- for item in site.data.partners -%}
+	<li>
+		<a href="{{ item.url }}"><img src="{{ item.photo }}" alt="{{ item.name }}"></a>
+	</li>
+{%- endfor %}
+</ul>

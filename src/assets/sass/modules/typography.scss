@@ -1,3 +1,18 @@
 h1,h2,h3,h4,h5 {
 	color: $green;
 }
+
+h2, h3, p, ul {
+	margin-top: 0;
+	margin-bottom: 1.7rem;
+}
+
+.horizontal-list {
+	list-style: none;
+	padding-left: 0;
+
+	li {
+		display: inline-block;
+		margin-right: 1.5rem;
+	}
+}
