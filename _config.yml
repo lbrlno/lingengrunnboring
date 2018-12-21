@@ -16,12 +16,12 @@ logo: /assets/img/logo.png
 excerpt_separator: <!--more-->
 sass:
   style: compressed
-  sass_dir: assets/sass
+  sass_dir: assets/_sass
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
-exclude: ['assets/sass']
+# exclude: ['assets/sass']
 
 
 collections:

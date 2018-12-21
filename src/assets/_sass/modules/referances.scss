@@ -4,8 +4,16 @@
 	margin: 0 -1rem;
 
 	&-item {
-		width: 33.33%;
+		width: 100%;
 		padding: 0 1rem 2rem 1rem;
+
+		@include mq($from: mobile, $until: tablet) {
+			width: 50%;
+		}
+
+		@include mq($from: tablet) {
+			width: 33.33%;
+		}
 	}
 
 	&-link {
