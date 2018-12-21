@@ -3,7 +3,14 @@
 	padding: 1rem 0;
 
 	&-logo {
-		float: left;
+		margin: auto;
+		display: block;
+		width: 125px;
+
+		@include mq($from: tablet) {
+			float: left;
+			margin: inherit;
+		}
 
 		img {
 			width: 125px;
@@ -13,11 +20,13 @@
 
 .menu {
 	list-style: none;
-	// padding-top: 1rem;
 	padding-left: 0;
 	margin: 0;
-	float: right;
-	line-height: 60px;	
+	line-height: 60px;
+
+	@include mq($from: tablet) {
+		float: right;
+	}
 
 	&-item {
 		display: inline-block;
@@ -27,7 +36,11 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		font-weight: 600;
-		margin-left: 1.5rem;
+		margin: 0 0.75rem 0 0;
+
+		@include mq($from: tablet) {
+			margin: 0 0 0 1.5rem;
+		}
 
 		&:hover {
 			text-decoration: underline;
