@@ -22,7 +22,7 @@
 
 	@include mq($from: tablet) {
 		float: right;
-		display: block;
+		display: block !important;
 		clear: none;
 	}
 
