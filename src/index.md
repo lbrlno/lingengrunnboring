@@ -1,6 +1,7 @@
 ---
-layout: pages/default
+layout: pages/pageWithFeatured
 title: Hjem
+featuredImage: /assets/img/featured.jpg
 ---
 
 ## Hjem
