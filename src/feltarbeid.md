@@ -6,26 +6,31 @@ permalink: /feltarbeid/
 
 ## Feltarbeid
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, corporis illum ad quasi, fugit eos, earum nisi eligendi amet suscipit at molestiae blanditiis impedit maiores unde deleniti porro optio iste.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores quaerat odit ut quibusdam, reiciendis corporis, vero. Facere assumenda, atque, illo quas eius, veritatis quidem libero cum earum debitis placeat ipsam?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi repudiandae rerum, at eligendi! Enim ratione quisquam doloribus similique facilis commodi. Magni, mollitia, neque. Corporis incidunt quam architecto et unde repudiandae.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, corporis illum ad quasi, fugit eos, earum nisi eligendi amet suscipit at molestiae blanditiis impedit maiores unde deleniti porro optio iste.Lorem ipsum dolor sit amet.
 
 ### Hva vi kan tilby
 
-* Liste
-* Over
-* Tjenester
-* Vi
-* Tilbyr
+* Totalsondering
+* Dreietrykksondering
+* Trykksondering (CPTU)
+* Piezometer for måling av vanntrykk (hydraulisk og elektrisk)
+* Nedsetting av miljøbrønner
+* Moreneprøvetaker for prøvetaking i faste masser
+* Representative prøver for enkle geotekniske analyser og miljøprøver
+* Stempelprøvetaking Ø54/75mm og blokkprøvetaking for prøver av høy kvalitet
+* GPS-innmåling av borpunkt
+
 
 ### Grunnboring
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim dicta impedit dolores consectetur culpa. Cumque quia, error, natus velit nisi accusamus enim odit porro ab doloremque sint eaque, quod. Possimus.
+Lingen Grunnboring har et tett og samløst samarbeid med ERA Geo, som vi deler kontorlokaler med.
 
 <ul class="horizontal-list">
 	<li>
 		<a href="http://era-geo.no"><img src="/assets/img/erageo.png" alt="Erageo"></a>
 	</li>
 </ul>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, vitae explicabo molestias voluptatum adipisci corporis quam quis, illo, placeat omnis sed veniam odit! Ea esse alias voluptatibus dignissimos nemo hic.
+Geosafe er vår hovedleverandør innenfor geoteknisk feltutstyr og vi har oså et tett samarbeid innenfor miljøprøvetaking og rådgiving gjennom Renatur.
 
 
 {% include partner-list.html %}
