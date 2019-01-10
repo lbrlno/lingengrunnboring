@@ -30,7 +30,10 @@
 			{% endif %}
 		</a>
 		<nav class="nav clearfix">
-			<ul class="menu">
+			<li class="menu-item nav-toggle" onclick="toggle_visibility('menu');">
+				<a href="#" class="menu-link">&#9776;</a>
+			</li>
+			<ul class="menu" id="menu">
 				{%- for item in site.data.navigation %}
 					<li class="menu-item"><a class="menu-link {% if item.link == page.url %}nav-active{% endif %}" href="{{ item.link }}">{{ item.name }}</a></li>
 				{%- endfor %}
@@ -59,5 +62,6 @@
 		</div>
 	</div>
 </div>
+<script src="/assets/js/script.js"></script>
 </body>
 </html>

@@ -3,33 +3,37 @@
 	padding: 1rem 0;
 
 	&-logo {
-		margin: auto;
+		float: left;
 		display: block;
 		width: 125px;
-
-		@include mq($from: tablet) {
-			float: left;
-			margin: inherit;
-		}
 
 		img {
 			width: 125px;
 		}
 	}
 }
-
 .menu {
 	list-style: none;
 	padding-left: 0;
 	margin: 0;
 	line-height: 60px;
+	display: none;
+	clear: both;
 
 	@include mq($from: tablet) {
 		float: right;
+		display: block;
+		clear: none;
 	}
 
 	&-item {
-		display: inline-block;
+		display: block;
+		text-align: center;
+	
+		@include mq($from: tablet) {
+			display: inline-block;
+			text-align: inherit;
+		}
 	}
 	&-link {
 		color: $white;
@@ -37,8 +41,10 @@
 		text-transform: uppercase;
 		font-weight: 600;
 		margin: 0 0.75rem 0 0;
+		display: block;
 
 		@include mq($from: tablet) {
+			display: inline;
 			margin: 0 0 0 1.5rem;
 		}
 
@@ -49,6 +55,15 @@
 
 	&-link.active {
 		text-decoration: underline;	
+	}
+}
+
+.nav-toggle {
+	line-height: 60px;
+	float: right;
+
+	@include mq($from: tablet) {
+		display: none;
 	}
 }
 
