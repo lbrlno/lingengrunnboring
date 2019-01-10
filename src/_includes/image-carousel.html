@@ -15,6 +15,9 @@
 				{% assign imageIndex = forloop.index %}
 				<div class="carousel-item {% if imageIndex==1 %}active{% endif %}">
 					<img src="{{ image.url }}" alt="{{ image.title }}">
+					<div class="carousel-caption d-none d-md-block">
+						<p>{{ image.title }}</p>
+					</div>
 				</div>
 			{% endfor %}
 		</div>
