@@ -20,6 +20,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, corporis illu
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim dicta impedit dolores consectetur culpa. Cumque quia, error, natus velit nisi accusamus enim odit porro ab doloremque sint eaque, quod. Possimus.
 
+<ul class="horizontal-list">
+	<li>
+		<a href="http://era-geo.no"><img src="/assets/img/erageo.png" alt="Erageo"></a>
+	</li>
+</ul>
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, vitae explicabo molestias voluptatum adipisci corporis quam quis, illo, placeat omnis sed veniam odit! Ea esse alias voluptatibus dignissimos nemo hic.
 
 
