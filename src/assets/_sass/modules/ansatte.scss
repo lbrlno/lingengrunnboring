@@ -3,15 +3,23 @@
 		margin: 5rem 0;
 		list-style: none;
 		padding-left: 0;
+		text-align: center;
+
+		@include mq($from: tablet) {
+			text-align: inherit;
+		}
 	}
 
 	&-item {
 		display: inline-block;
-		margin-right: 3rem;
 		text-align: center;
 
-		&:last-of-type {
-			margin-right: 0;
+		@include mq($from: tablet) {
+			margin-right: 3rem;
+
+			&:last-of-type {
+				margin-right: 0;
+			}
 		}
 
 		h4 {
