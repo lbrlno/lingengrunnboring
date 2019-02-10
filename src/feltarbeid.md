@@ -6,7 +6,7 @@ permalink: /feltarbeid/
 
 ## Feltarbeid
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, corporis illum ad quasi, fugit eos, earum nisi eligendi amet suscipit at molestiae blanditiis impedit maiores unde deleniti porro optio iste.Lorem ipsum dolor sit amet.
+
 
 ### Hva vi kan tilby
 
