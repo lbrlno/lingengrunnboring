@@ -1,4 +1,4 @@
-- name: John Ola Lingen
+- name: John Ole Lingen
   title: Daglig Leder
   phone: 970 05 507
   email: john@lingengrunnboring.no
@@ -8,3 +8,7 @@
   phone: 958 83 670
   email: kristoffer@lingengrunnboring.no
   photo: /assets/img/kristoffer.png
+  - name: Sigurd Hestad
+  title: Logistikkansvarlig
+  phone: 995 18 335
+  email: sigurd@lingengrunnboring.no
