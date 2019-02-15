@@ -24,6 +24,7 @@ Arbeidsområdet vil være hele landet.
 - Stempelprøvetaking Ø54/75 mm og blokkprøvetaking for prøver av høy kvalitet
 - GPS-innmåling av borpunkt.
 
-Hvorfor velge oss Vi er et lite firma med høy kompetanse som har som mål å være ledende innen levering av kvalitet i levert vare.
+### Hvorfor velge oss
+Vi er et lite firma med høy kompetanse som har som mål å være ledende innen levering av kvalitet i levert vare.
 
 ### Hvem er vi
