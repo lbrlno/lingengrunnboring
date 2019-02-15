@@ -19,6 +19,7 @@ permalink: /feltarbeid/
 * Representative prøver for enkle geotekniske analyser og miljøprøver
 * Stempelprøvetaking Ø54/75mm og blokkprøvetaking for prøver av høy kvalitet
 * GPS-innmåling av borpunkt
+* Grunnundersøkelser på sjø
 
 
 ### Grunnboring
