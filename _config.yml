@@ -1,12 +1,11 @@
 source: src
 destination: app
-title: Lingen Grunnboring
+title: Lingen Grunnboring as
 timezone: Europe/Oslo
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Vi er et lite firma med høy kompetanse, som har som mål å være ledende innen kvalitet i utført arbeid. 
+  Vi tilbyr tjenester innen geotekniske grunnundersøkelser og har pr i dag to borerigger. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
