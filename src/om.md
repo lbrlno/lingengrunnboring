@@ -27,6 +27,6 @@ Arbeidsområdet vil være hele landet.
 - Grunnundersøkelser på sjø
 
 ### Hvorfor velge oss
-Vi er et lite firma med høy kompetanse som har som mål å være ledende innen levering av kvalitet i levert vare.
+Vi er et lite firma med høy kompetanse, som har som mål å være ledende innen kvalitet i utført arbeid.
 
 ### Hvem er vi
