@@ -2,7 +2,6 @@
 layout: pages/about
 title: Om oss
 permalink: /om/
-featuredImage: /assets/img/featured.jpg
 ---
 
 ## Om oss
