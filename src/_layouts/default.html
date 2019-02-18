@@ -11,13 +11,15 @@
 
 	<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-	<link rel="dns-prefetch" href="//google-analytics.com">
 	<link rel="dns-prefetch" href="//use.typekit.net">
 
 	<link rel="stylesheet" href="/assets/css/app.css">
 	<link rel="stylesheet" href="https://use.typekit.net/ceo7inq.css">
-	<script src="/assets/vendor/jquery-3.3.1.slim.min.js"></script>
-	<script src="/assets/vendor/bootstrap-images.js"></script>
+	
+	{% if page.imageCarousel %}
+		<script src="/assets/vendor/jquery-3.3.1.slim.min.js"></script>
+		<script src="/assets/vendor/bootstrap-images.js"></script>
+	{% endif %}
 </head>
 <body>
 
@@ -62,8 +64,20 @@
 		</div>
 	</div>
 </div>
-<script src="/assets/js/instafeed.min.js"></script>
-<script src="/assets/js/script.js"></script>
+{% if page.instafeed %}
+  	<script src="/assets/js/instafeed.min.js"></script>
+{% endif %}
+<script>
+	function toggle_visibility(id) {
+		var e = document.getElementById(id);
+
+		if(e.style.display == 'block') {
+			e.style.display = 'none';
+		} else {
+			e.style.display = 'block';
+		}
+	}
+</script>
 <script src="/assets/js/instant.page.js" type="module"></script>
 </body>
 </html>

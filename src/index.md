@@ -2,6 +2,7 @@
 layout: pages/pageWithFeatured
 title: Hjem
 featuredImage: /assets/img/featured.jpg
+instafeed: true
 ---
 
 Velkommen til Lingen Grunnboring AS
