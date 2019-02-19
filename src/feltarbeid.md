@@ -24,14 +24,15 @@ permalink: /feltarbeid/
 
 ### Grunnboring
 
-Lingen Grunnboring har et tett og samløst samarbeid med ERA Geo, som vi deler kontorlokaler med.
+Lingen Grunnboring har et tett og sømløst samarbeid med ERA Geo, som vi deler kontorlokaler med.
 
 <ul class="horizontal-list">
 	<li>
 		<a href="http://era-geo.no"><img src="/assets/img/erageo.png" alt="Erageo"></a>
 	</li>
 </ul>
-Geosafe er vår hovedleverandør innenfor geoteknisk feltutstyr og vi har oså et tett samarbeid innenfor miljøprøvetaking og rådgiving gjennom Renatur.
+Geosafe er vår hovedleverandør av geoteknisk utstyr.
+Vi har også et tett samarbeid med Renatur innen miljøprøvetaking og rådgivning. 
 
 
 {% include partner-list.html %}
