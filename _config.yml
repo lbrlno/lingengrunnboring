@@ -1,6 +1,6 @@
 source: src
 destination: app
-title: Lingen Grunnboring as
+title: Lingen Grunnboring AS
 timezone: Europe/Oslo
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
